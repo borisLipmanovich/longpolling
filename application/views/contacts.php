@@ -11,7 +11,7 @@
     <link href="../../css/bootstrap.min.css" rel="stylesheet">
     <link href="../../css/bootstrap-table.css" rel="stylesheet">
     <link rel="shortcut icon" href="/favicon.ico">
-    <title>polling test</title>
+    <title>long polling</title>
     <script>
         function getContent(timestamp){
             $('#table').bootstrapTable('refresh',{
